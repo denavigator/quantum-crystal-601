@@ -12,4 +12,4 @@ services:
         "postgresql://myapp_user:CdortVYp1eUL4udSKse5M5Fhpew77Cp2@dpg-d1j5oare5dus73cuvc00-a/myapp_db_fcta"
           
          connectionString
-         "yaml.Node"
+         "render.yaml"
